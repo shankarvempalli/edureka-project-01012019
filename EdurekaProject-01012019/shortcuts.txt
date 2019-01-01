@@ -1,0 +1,12 @@
+short cuts:
+
+main method -> type main + ctrl + spacebar + enter
+
+System.out.println --> type syso + ctrl + spacebar + enter
+
+Run as Java --> Alt + Shift + X, J
+
+Type Eclipse short cuts in google and can get the details
+
+To format the code --> Shift + ctrl + f
+
